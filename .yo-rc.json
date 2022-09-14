@@ -1,0 +1,9 @@
+{
+  "generator-teams": {
+    "promptValues": {
+      "developer": "Microsoft"
+    },
+    "libraryName": "teamSnip",
+    "generator-version": "4.0.1"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.13/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.13",
+  "id": "28406610-343a-11ed-8a1f-c359b418d439",
+  "version": "0.0.1",
+  "packageName": "teamsnip",
+  "developer": {
+    "name": "Microsoft",
+    "websiteUrl": "https://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io",
+    "privacyUrl": "https://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io/tou.html"
+  },
+  "name": {
+    "short": "TeamSnip",
+    "full": "TeamSnip"
+  },
+  "description": {
+    "short": "TODO: add short description here",
+    "full": "TODO: add full description here"
+  },
+  "icons": {
+    "outline": "icon-outline.png",
+    "color": "icon-color.png"
+  },
+  "accentColor": "#D85028",
+  "configurableTabs": [
+    {
+      "configurationUrl": "https://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io/snipTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "canUpdateConfiguration": true,
+      "scopes": [
+        "groupchat"
+      ],
+      "context": [
+        "meetingChatTab",
+        "meetingDetailsTab",
+        "meetingSidePanel",
+        "meetingStage"
+      ],
+      "meetingSurfaces": [
+        "sidePanel",
+        "stage"
+      ]
+    }
+  ],
+  "staticTabs": [],
+  "bots": [],
+  "connectors": [],
+  "composeExtensions": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io"
+  ],
+  "showLoadingIndicator": false,
+  "webApplicationInfo": {
+    "id": "c5f54bc4-00dc-4b91-9772-474f0771102c",
+    "resource": "api://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io/c5f54bc4-00dc-4b91-9772-474f0771102c"
+  }
+}
