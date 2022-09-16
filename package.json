@@ -60,6 +60,7 @@
     "file-loader": "~6.2.0",
     "fork-ts-checker-webpack-plugin": "~7.2.11",
     "gulp": "4.0.2",
+    "ngrok": "^3.4.1",
     "ts-loader": "~9.3.0",
     "typescript": "~4.6.4",
     "typestyle": "~2.3.0",
@@ -67,7 +68,7 @@
     "webpack": "^5.72.0",
     "webpack-node-externals": "^3.0.0",
     "yargs": "^17.5.1",
-    "yoteams-build-core": "^1.7.0",
+    "yoteams-build-core": "^1.7.0-preview.3",
     "yoteams-deploy": "^1.2.0"
   },
   "browserslist": [

@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b8f98c13-f46e-43dd-b867-5a04cb140fe3/AppServices/subscriptions/b8f98c13-f46e-43dd-b867-5a04cb140fe3/resourceGroups/TeamSnipRG/providers/Microsoft.Web/sites/TeamSnip",
+    "appService.deploySubpath": "."
+}

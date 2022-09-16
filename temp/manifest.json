@@ -6,9 +6,9 @@
   "packageName": "teamsnip",
   "developer": {
     "name": "Microsoft",
-    "websiteUrl": "https://teamsnip.azurewebsites.net",
-    "privacyUrl": "https://teamsnip.azurewebsites.net/privacy.html",
-    "termsOfUseUrl": "https://teamsnip.azurewebsites.net/tou.html"
+    "websiteUrl": "https://c77d-2001-818-d86c-ff00-217d-2148-c782-b4ff.ngrok.io",
+    "privacyUrl": "https://c77d-2001-818-d86c-ff00-217d-2148-c782-b4ff.ngrok.io/privacy.html",
+    "termsOfUseUrl": "https://c77d-2001-818-d86c-ff00-217d-2148-c782-b4ff.ngrok.io/tou.html"
   },
   "name": {
     "short": "TeamSnip",
@@ -25,7 +25,7 @@
   "accentColor": "#D85028",
   "configurableTabs": [
     {
-      "configurationUrl": "https://teamsnip.azurewebsites.net/snipTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
+      "configurationUrl": "https://c77d-2001-818-d86c-ff00-217d-2148-c782-b4ff.ngrok.io/snipTab/config.html?name={loginHint}&tenant={tid}&group={groupId}&theme={theme}",
       "canUpdateConfiguration": true,
       "scopes": [
         "groupchat"
@@ -51,11 +51,11 @@
     "messageTeamMembers"
   ],
   "validDomains": [
-    "teamsnip.azurewebsites.net"
+    "c77d-2001-818-d86c-ff00-217d-2148-c782-b4ff.ngrok.io"
   ],
   "showLoadingIndicator": false,
   "webApplicationInfo": {
     "id": "c5f54bc4-00dc-4b91-9772-474f0771102c",
-    "resource": "api://861a-2001-818-d86c-ff00-447b-d3ca-dcc5-4203.ngrok.io/c5f54bc4-00dc-4b91-9772-474f0771102c"
+    "resource": "api://c2a1-2001-818-d86c-ff00-6803-1b3b-95c8-265.ngrok.io/c5f54bc4-00dc-4b91-9772-474f0771102c"
   }
 }
