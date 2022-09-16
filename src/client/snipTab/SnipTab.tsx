@@ -44,6 +44,7 @@ export const SnipTab = () => {
     const [newTopicTitle, setNewTopicTitle] = useState<string>();
 
     useEffect(() => {
+      
         if (inTeams === true) {
             authentication.getAuthToken({
                 resources: [process.env.TAB_APP_URI as string],
